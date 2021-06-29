@@ -1,5 +1,5 @@
 # Cash-Register
-Logging Of Transactions With Taxes (Java Console)
+Logging Of Transactions With Taxes 
 
 ## Functionality 
 
